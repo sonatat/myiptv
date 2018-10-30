@@ -45,3 +45,5 @@ http://185.162.141.69:9022/disney
 http://185.162.141.69:9065/ntv
 #EXTINF:2.23201,Animal Planet HD
 http://185.162.141.69:9065/animal
+git remote add origin https://github.com/sonatat/ukiptv1.git
+git push -u origin master
