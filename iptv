@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:2.66858,National Geographic HD
+http://185.162.141.69:9001/natgeo
+#EXTINF:2.98136,History HD
+http://185.162.141.69:9001/history
+#EXTINF:1.87992,EUROSPORT 1 HD
+http://185.162.141.69:9001/eurosport
+#EXTINF:3.538,Amedia Premium HD
+http://185.162.141.69:9001/amedia
+#EXTINF:2.168,Киносемья
+http://185.162.141.69:9004/premiera
+#EXTINF:1.82,Киносерия
+http://185.162.141.69:9004/mnogotv
+#EXTINF:3.404,Киномикс
+http://185.162.141.69:9004/kinoplus
+#EXTINF:1.948,КиноХит
+http://185.162.141.69:9004/kinohit
+#EXTINF:2.02,Авто +
+http://185.162.141.69:9004/avtoplus
+#EXTINF:2.496,Первый HD
+http://185.162.141.69:9007/perviy
+#EXTINF:2.808,Nat Geo Wild HD
+http://185.162.141.69:9007/natgeowild
+#EXTINF:2.09788,TV 1000 Action
+http://185.162.141.69:9008/tv1000action
+#EXTINF:2.22799,Euronews
+http://185.162.141.69:9008/euronews
+#EXTINF:2.16,Моя планета
+http://185.162.141.69:9009/planeta
+#EXTINF:2.4,Outdoor Channel
+http://185.162.141.69:9009/outdoor
+#EXTINF:1.82,Наука 2.0
+http://185.162.141.69:9009/nauka
+#EXTINF:2.784,THT4
+http://185.162.141.69:9009/comedy
+#EXTINF:1.77237,Матч Футбол 1 HD
+http://185.162.141.69:9012/football
+#EXTINF:3.00766,MTV Dance
+http://185.162.141.69:9014/mtvdance
+#EXTINF:1.704,Cartoon Network
+http://185.162.141.69:9014/cartoon
+#EXTINF:1.44,Disney Junior
+http://185.162.141.69:9022/disney
+#EXTINF:3.20147,HTB HD
+http://185.162.141.69:9065/ntv
+#EXTINF:2.23201,Animal Planet HD
+http://185.162.141.69:9065/animal
